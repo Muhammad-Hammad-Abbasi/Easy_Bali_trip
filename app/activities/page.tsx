@@ -18,7 +18,7 @@ export default function Activities() {
 
       {/* Title Section  */}
       <div className="flex items-center text-2xl md:text-4xl lg:text-4xl font-bold pt-10 p-5">
-        <h1>Choose Our Activities Tour Packages</h1>
+        <h1 className="font-serif">Choose Our Activities Tour Packages</h1>
       </div>
 
       {/* Activities Post */}

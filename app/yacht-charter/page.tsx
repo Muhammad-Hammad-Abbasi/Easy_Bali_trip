@@ -19,8 +19,8 @@ export default function Yacht_Charter() {
 
 
         {/* Section Title */}
-        <div className="flex items-center text-xl md:text-4xl lg:text-4xl p-4 ">
-          <h1 className="font-serif">Choose Our Yacht Charter Tour Packages</h1>
+        <div className="flex justify-center items-center text-xl md:text-4xl lg:text-4xl p-4 ">
+          <h1 className="font-serif px-3">Choose Our Yacht Packages</h1>
         </div>
 
         <div className="px-4 text-[15px] md:text-[17px] lg:text:text-[20px] text-[#979797]">
