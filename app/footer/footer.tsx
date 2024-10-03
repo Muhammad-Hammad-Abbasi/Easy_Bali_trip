@@ -21,7 +21,7 @@ export default function Footer() {
 
             />
             <div className="px-10">
-              <h2 className="text-lg font-serif pl-4 flex items-center py-4">Contact Us</h2>
+              <h2 className="text-lg font-serif pl-4 flex items-center py-4">Follow Me</h2>
               <ul className='flex flex-row pt-[2px] items-center'>
                 <li className='pl-[15px] '>
                   <Link
