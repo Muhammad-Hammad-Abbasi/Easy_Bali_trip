@@ -28,6 +28,7 @@ export default function Activities() {
 
           {/* Card 1: Hot-Air-Balloon */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/Hot-Air-Balloon-1.png"
