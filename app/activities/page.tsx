@@ -106,7 +106,7 @@ export default function Activities() {
             <Link href="">
               <div className="overflow-hidden">
                 <Image
-                  src="/ATV-Ride.png"
+                  src="/ATV-ride.png"
                   height={450}
                   width={420}
                   alt="ATV-Ride"
