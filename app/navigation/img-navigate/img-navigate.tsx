@@ -49,15 +49,15 @@ function ImgNavigate(){
                     </li>
 
                     <li>
-                        <Link href="/helicopetr">
+                        <Link href="/activities">
                         <Image
-                        src={"/helicopter.png"}
+                        src={"/helicopters-img-2.png"}
                         height={170}
                         width={170}
                         alt="yacht charter"
                          className="rounded-full"
                         />
-                        <p className="flex justify-center pt-3">Helicoper</p>
+                        <p className="flex justify-center pt-3">Activities</p>
                         </Link>
                     </li>
                 </ul>
