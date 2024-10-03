@@ -17,7 +17,7 @@ export default function Activities_Details() {
           {/* Card 1: Bali-Zoo-1 */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
 
-            <Link href="">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/Bali-Zoo-1.jpg"
@@ -36,13 +36,11 @@ export default function Activities_Details() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
 
 
           {/* Card 2: Tirt Bali Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/water-sport.png"
@@ -61,13 +59,11 @@ export default function Activities_Details() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
 
 
           {/* Card 3: horse-riding */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/horse-img.png"
@@ -86,7 +82,6 @@ export default function Activities_Details() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
         </div>
       </div>

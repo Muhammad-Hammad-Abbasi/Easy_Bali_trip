@@ -17,8 +17,6 @@ function Navigation() {
     return (
         <main className="flex flex-col">
             <div className="flex justify-between items-center px-10 pr-96 p-2 font-medium">
-
-
                 <div className="block md:hidden lg:hidden">
                     <button onClick={toggleButton}>{isOpen ? <FaTimes size={24} className="text-white" /> : <FaBars size={24} />}</button>
                 </div>

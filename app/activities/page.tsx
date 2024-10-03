@@ -10,7 +10,7 @@ export default function Activities() {
           height={0}
           width={1400}
           alt="dolphin"
-          className="w-[320px] h-[150px] md:w-[900px] md:h-[350px] lg:w-[1400px] lg:h-[350px]"
+          className="w-[380px] h-[180px] md:w-[900px] md:h-[350px] lg:w-[1400px] lg:h-[350px]"
 
         />
       </div>
@@ -28,8 +28,6 @@ export default function Activities() {
 
           {/* Card 1: Hot-Air-Balloon */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/Hot-Air-Balloon-1.png"
@@ -48,13 +46,11 @@ export default function Activities() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
 
 
           {/* Card 2: Paragliding */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/Paragliding-1.png"
@@ -73,13 +69,11 @@ export default function Activities() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
 
 
           {/* Card 3: Camel-Safari-Ride */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/Camel-Safari-Ride-2.png"
@@ -98,12 +92,11 @@ export default function Activities() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+
           </div>
 
           {/* Card 4: ATV-Ride */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/ATV-ride.png"
@@ -122,12 +115,10 @@ export default function Activities() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
 
           {/* Card 5: Surfing */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/Surfing.png"
@@ -146,12 +137,11 @@ export default function Activities() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+
           </div>
 
           {/* Card 6: Dolphin-Trip */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/Dolphin-Trip.png"
@@ -170,14 +160,11 @@ export default function Activities() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
 
 
           {/* Card 7: Bali-Zoo-1 */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/Bali-Zoo-1.jpg"
@@ -196,13 +183,11 @@ export default function Activities() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
 
 
           {/* Card 8: Tirt Bali Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/water-sport.png"
@@ -221,13 +206,11 @@ export default function Activities() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
 
 
           {/* Card 9: horse-riding */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/horse-img.png"
@@ -246,7 +229,6 @@ export default function Activities() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
           </div>
       </div>

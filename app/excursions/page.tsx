@@ -10,7 +10,7 @@ export default function Excursions() {
           height={0}
           width={1400}
           alt="excursions"
-          className="w-[320px] h-[150px] md:w-[900px] md:h-[350px] lg:w-[1400px] lg:h-[350px]"
+          className="w-[380px] h-[180px] md:w-[900px] md:h-[350px] lg:w-[1400px] lg:h-[350px]"
 
         />
       </div>
@@ -29,7 +29,6 @@ export default function Excursions() {
           {/* Card 1: Ubud Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
 
-            <Link href="">
               <div className="overflow-hidden">
                 <Image
                   src="/Ubud.png"
@@ -48,13 +47,13 @@ export default function Excursions() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+           
           </div>
 
 
           {/* Card 2: North Bali Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/eastbali.png"
@@ -73,13 +72,13 @@ export default function Excursions() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+            
           </div>
 
 
           {/* Card 3: East Bali Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/northbali.png"
@@ -98,12 +97,12 @@ export default function Excursions() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+            
           </div>
 
           {/* Card 4: South Bali Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/southbali-4.png"
@@ -122,12 +121,12 @@ export default function Excursions() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+            
           </div>
 
           {/* Card 5: Private Bali Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/privatetour-5.png"
@@ -146,12 +145,12 @@ export default function Excursions() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+            
           </div>
 
           {/* Card 6: West penida Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/westpenida.png"
@@ -170,13 +169,13 @@ export default function Excursions() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+            
           </div>
 
 
           {/* Card : Nusa Penida Village Tours */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/Nusa-Penida-Village.png"
@@ -195,13 +194,13 @@ export default function Excursions() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+            
           </div>
 
 
           {/* Card 8: West penida Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/Sharing-package.png"
@@ -220,13 +219,13 @@ export default function Excursions() {
                   DETAILS
                 </button>
               </div>
-            </Link>
+            
           </div>
 
 
           {/* Card 9: West penida Tour */}
           <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group bg-slate-50">
-            <Link href="">
+            
               <div className="overflow-hidden">
                 <Image
                   src="/Diamond-Beach-Nusa.png"
@@ -245,7 +244,6 @@ export default function Excursions() {
                   DETAILS
                 </button>
               </div>
-            </Link>
           </div>
         </div>
       </div>

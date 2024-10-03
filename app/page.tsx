@@ -4,6 +4,7 @@ import Our_Details from "./excursions/details/details"
 import Video from './video/video';
 import Activities_Details from './activities/details/details';
 import Yacht_Details from './yacht-charter/details/details';
+import Helicopter_Details from './helicopter/details/details';
 
 export default function Home() {
   return (
@@ -13,6 +14,7 @@ export default function Home() {
       <Our_Details />
       <Activities_Details/>
       <Yacht_Details/>
+      <Helicopter_Details/>
     </main>
   );
 }
