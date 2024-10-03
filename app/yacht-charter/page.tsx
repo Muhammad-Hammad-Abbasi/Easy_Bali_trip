@@ -12,7 +12,7 @@ export default function Yacht_Charter() {
             height={0}
             width={1400}
             alt="dolphin"
-            className="w-[320px] h-[150px] md:w-[900px] md:h-[350px] lg:w-[1400px] lg:h-[550px]"
+            className="w-[380px] h-[150px] md:w-[900px] md:h-[350px] lg:w-[1400px] lg:h-[550px]"
 
           />
         </div>
@@ -23,9 +23,9 @@ export default function Yacht_Charter() {
           <h1 className="font-serif px-3">Choose Our Yacht Packages</h1>
         </div>
 
-        <div className="px-4 text-[15px] md:text-[17px] lg:text:text-[20px] text-[#979797]">
-          <p className="py-2">Nothing beats a sailing holiday especially a sailing holiday cruise in sunny, tropical paradise on clear, azure waters aboard a beautiful, luxurious and personalized private yacht. Now you and up to 18 of your friends can lounge, relax and unwind in the ultimate style and comfort under the brilliant island sun with Yacht Tours.</p>
-          <p className="py-2">You can choose to take the half-day trip that takes you from Benoa Harbor to Nusa Dua, Serangan and Sanur or a full day trip to Nusa Lembongan, Penida and Ceningan. All trips would include swimming, padding, and snorkeling, diving, fishing and of course, lots of fun! A full-time crew is always at hand to meet your every need while you are on board.</p>
+        <div className=" px-4 text-[15px] md:text-[17px] lg:text:text-[20px] text-[#979797]">
+          <p className="flex justify-center py-2">Nothing beats a sailing holiday especially a sailing holiday cruise in sunny, tropical paradise on clear, azure waters aboard a beautiful, luxurious and personalized private yacht. Now you and up to 18 of your friends can lounge, relax and unwind in the ultimate style and comfort under the brilliant island sun with Yacht Tours.</p>
+          <p className="flex justify-center py-2">You can choose to take the half-day trip that takes you from Benoa Harbor to Nusa Dua, Serangan and Sanur or a full day trip to Nusa Lembongan, Penida and Ceningan. All trips would include swimming, padding, and snorkeling, diving, fishing and of course, lots of fun! A full-time crew is always at hand to meet your every need while you are on board.</p>
         </div>
 
 
