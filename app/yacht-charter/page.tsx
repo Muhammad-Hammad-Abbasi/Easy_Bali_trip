@@ -12,7 +12,7 @@ export default function Yacht_Charter() {
             height={0}
             width={1400}
             alt="dolphin"
-            className="w-[380px] h-[150px] md:w-[900px] md:h-[350px] lg:w-[1400px] lg:h-[550px]"
+            className="w-[380px] h-[180px] md:w-[900px] md:h-[350px] lg:w-[1400px] lg:h-[550px]"
 
           />
         </div>
