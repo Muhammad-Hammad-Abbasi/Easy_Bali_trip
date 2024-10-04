@@ -38,16 +38,16 @@ export default function Helicopter() {
             {/* Card 1: helicopter-img-1 */}
             <div className=" w-[300px] md:w-[350px] lg:w-[420px] group">
 
-                <div className="overflow-hidden">
-                  <Image
-                    src="/Helicopter-img-1.png"
-                    height={450}
-                    width={420}
-                    alt="yacht-img-1"
-                    className="h-[280px] object-cover transform group-hover:scale-125 transition-transform shadow-inner shadow-black duration-500 ease-in-out"
-                  />
-                </div>
-                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Rinjani Volcano Sky Tour</h2>
+              <div className="overflow-hidden">
+                <Image
+                  src="/Helicopter-img-1.png"
+                  height={450}
+                  width={420}
+                  alt="yacht-img-1"
+                  className="h-[280px] object-cover transform group-hover:scale-125 transition-transform shadow-inner shadow-black duration-500 ease-in-out"
+                />
+              </div>
+              <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Rinjani Volcano Sky Tour</h2>
 
               <div className="relative px-2 overflow-hidden group">
                 <h3 className="font-bold text-black">Start from USD 4.786</h3>
@@ -62,19 +62,19 @@ export default function Helicopter() {
 
             {/* Card 2: helicopter-img-2 */}
             <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group">
-                <div className="overflow-hidden">
-                  <Image
-                    src="/helicopter-img-04.png"
-                    height={450}
-                    width={420}
-                    alt="Helicopters"
-                    className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
-                  />
-                </div>
-                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">
-                  GWK Statue & Uluwatu Temple
-                </h2>
-              
+              <div className="overflow-hidden">
+                <Image
+                  src="/helicopter-img-04.png"
+                  height={450}
+                  width={420}
+                  alt="Helicopters"
+                  className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
+                />
+              </div>
+              <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">
+                GWK Statue & Uluwatu Temple
+              </h2>
+
               <div className="relative px-2 overflow-hidden group">
                 <h3 className="font-bold text-black">Start from USD 1.023</h3>
                 <p className="mt-3">
@@ -89,17 +89,17 @@ export default function Helicopter() {
 
             {/* Card 3: helicopter-img-3 */}
             <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group ">
-                <div className="overflow-hidden">
-                  <Image
-                    src="/helicopter-img-03.jpg"
-                    height={450}
-                    width={420}
-                    alt="Helicopters"
-                    className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
-                  />
-                </div>
-                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Nusa Island Sky Tour </h2>
-               
+              <div className="overflow-hidden">
+                <Image
+                  src="/helicopter-img-03.jpg"
+                  height={450}
+                  width={420}
+                  alt="Helicopters"
+                  className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
+                />
+              </div>
+              <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Nusa Island Sky Tour </h2>
+
               <div className="relative px-2 overflow-hidden group">
                 <h3 className="font-bold text-black">Start from USD 1.445</h3>
                 <p className="mt-3">Fly over to the most iconic Kelingking </p>
@@ -114,17 +114,17 @@ export default function Helicopter() {
             {/* Card 4: helicopter */}
             <div className=" w-[300px] md:w-[350px] lg:w-[420px]  group">
 
-                <div className="overflow-hidden">
-                  <Image
-                    src="/helicopter.png"
-                    height={450}
-                    width={420}
-                    alt="helicopter"
-                    className="h-[280px] object-cover transform group-hover:scale-125 transition-transform shadow-inner shadow-black duration-500 ease-in-out"
-                  />
-                </div>
-                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Beratan Lake & Jatuluwih</h2>
-              
+              <div className="overflow-hidden">
+                <Image
+                  src="/helicopter.png"
+                  height={450}
+                  width={420}
+                  alt="helicopter"
+                  className="h-[280px] object-cover transform group-hover:scale-125 transition-transform shadow-inner shadow-black duration-500 ease-in-out"
+                />
+              </div>
+              <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Beratan Lake & Jatuluwih</h2>
+
               <div className="relative px-2 overflow-hidden group">
 
                 <h3 className="font-bold text-black">Start from USD 2.046</h3>
@@ -139,29 +139,25 @@ export default function Helicopter() {
 
             {/* Card 5: Helicopters */}
             <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group">
-                <div className="overflow-hidden">
-                  <Image
-                    src="/Helicopters-img-2.png"
-                    height={450}
-                    width={420}
-                    alt="yacht-img-2"
-                    className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
-                  />
-                </div>
-                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Tanah Lot & Seminyak</h2>
-
+              <div className="overflow-hidden">
+                <Image
+                  src="/Helicopters-img-2.png"
+                  height={450}
+                  width={420}
+                  alt="yacht-img-2"
+                  className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
+                />
+              </div>
+              <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Tanah Lot & Seminyak</h2>
               <div className="relative px-2 overflow-hidden group">
                 <h3 className="font-bold text-black">Start from USD 820</h3>
                 <p className="mt-3">Experience the most captivating sights on</p>
                 <p className="">this short yet memorable tour.</p>
-
                 <button className="mt-4 px-5 py-2 rounded-sm border-2 bg-[#000000] text-white text-sm">
                   BOOK NOW
                 </button>
               </div>
             </div>
-
-
           </div>
         </div>
       </main>
