@@ -47,16 +47,12 @@ export default function Helicopter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform shadow-inner shadow-black duration-500 ease-in-out"
                   />
                 </div>
-                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Rinjani Volcano Sky Tour
+                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Rinjani Volcano Sky Tour</h2>
 
-                </h2>
-              
               <div className="relative px-2 overflow-hidden group">
-
                 <h3 className="font-bold text-black">Start from USD 4.786</h3>
                 <p className="mt-3">Situated at east of Bali, discover Lombok famous Mt. .</p>
                 <p className="">Rinjani, Indonesias second-highest volcano</p>
-
                 <button className="mt-4 px-5 py-2 rounded-sm border-2 bg-[#000000] text-white text-sm">
                   BOOK NOW
                 </button>
@@ -80,12 +76,10 @@ export default function Helicopter() {
                 </h2>
               
               <div className="relative px-2 overflow-hidden group">
-
                 <h3 className="font-bold text-black">Start from USD 1.023</h3>
                 <p className="mt-3">
                   Take to the skies on a helicopter tour to </p>
                 <p className="">“The Bukit”, located in south Bali.</p>
-
                 <button className="mt-4 px-5 py-2 rounded-sm border-2 bg-[#000000] text-white text-sm">
                   BOOK NOW
                 </button>
@@ -104,18 +98,12 @@ export default function Helicopter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
                   />
                 </div>
-                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Nusa Island Sky Tour
-
-
-
-                </h2>
-              
+                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Nusa Island Sky Tour </h2>
+               
               <div className="relative px-2 overflow-hidden group">
-
                 <h3 className="font-bold text-black">Start from USD 1.445</h3>
                 <p className="mt-3">Fly over to the most iconic Kelingking </p>
                 <p className="">beach which overlook T-Rex Head.</p>
-
                 <button className="mt-4 px-5 py-2 rounded-sm border-2 bg-[#000000] text-white text-sm">
                   BOOK NOW
                 </button>
@@ -135,18 +123,13 @@ export default function Helicopter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform shadow-inner shadow-black duration-500 ease-in-out"
                   />
                 </div>
-                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Beratan Lake & Jatuluwih
-
-
-
-                </h2>
+                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Beratan Lake & Jatuluwih</h2>
               
               <div className="relative px-2 overflow-hidden group">
 
                 <h3 className="font-bold text-black">Start from USD 2.046</h3>
                 <p className="mt-3">Lake Beratan is a shallow lake with the </p>
                 <p className="">high caldera about 1231m above sea level.</p>
-
                 <button className="mt-4 px-5 py-2 rounded-sm border-2 bg-[#000000] text-white text-sm">
                   BOOK NOW
                 </button>
@@ -165,14 +148,9 @@ export default function Helicopter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
                   />
                 </div>
-                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Tanah Lot & Seminyak
+                <h2 className="font-bold text-2xl text-[#000000] px-2 py-4">Tanah Lot & Seminyak</h2>
 
-
-
-                </h2>
-              
               <div className="relative px-2 overflow-hidden group">
-
                 <h3 className="font-bold text-black">Start from USD 820</h3>
                 <p className="mt-3">Experience the most captivating sights on</p>
                 <p className="">this short yet memorable tour.</p>

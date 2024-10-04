@@ -1,5 +1,4 @@
 import Image from "next/image"
-import Link from "next/link"
 
 export default function Yacht_Charter() {
   return (
@@ -37,7 +36,6 @@ export default function Yacht_Charter() {
             {/* Card 1: yacht-img-1 */}
             <div className=" w-[300px] md:w-[350px] lg:w-[420px] group">
 
-              <Link href="">
                 <div className="overflow-hidden">
                   <Image
                     src="/yacht-img-1.png"
@@ -47,7 +45,7 @@ export default function Yacht_Charter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform shadow-inner shadow-black duration-500 ease-in-out"
                   />
                 </div>
-              </Link>
+             
               <div className="relative p-4 overflow-hidden group">
                 <h2 className="font-bold text-2xl text-[#000000]">Sailing Yacht | Phinisi</h2>
                 <p className="mt-3">Capacity: 20 (10 O/N)</p>
@@ -63,7 +61,7 @@ export default function Yacht_Charter() {
 
             {/* Card 2: yacht-img-2 */}
             <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group">
-              <Link href="">
+              
                 <div className="overflow-hidden">
                   <Image
                     src="/yacht-img-2.png"
@@ -73,7 +71,7 @@ export default function Yacht_Charter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
                   />
                 </div>
-              </Link>
+              
               <div className="relative p-4 overflow-hidden group">
                 <h2 className="font-bold text-2xl text-[#000000]">Catamaran Lagoon 380S</h2>
                 <p className="mt-3">Capacity: 12 Persons</p>
@@ -89,7 +87,7 @@ export default function Yacht_Charter() {
 
             {/* Card 3: yacht-img-3 */}
             <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group ">
-              <Link href="">
+          
                 <div className="overflow-hidden">
                   <Image
                     src="/yacht-img-3.png"
@@ -99,7 +97,7 @@ export default function Yacht_Charter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
                   />
                 </div>
-              </Link>
+           
               <div className="relative p-4 overflow-hidden group">
                 <h2 className="font-bold text-2xl text-[#000000]">Accura 55 Luxury Mortor Yacht</h2>
                 <p className="mt-3">Capacity: 17 Persons</p>
@@ -116,7 +114,6 @@ export default function Yacht_Charter() {
             {/* Card 4: yacht */}
             <div className=" w-[300px] md:w-[350px] lg:w-[420px]  group">
 
-              <Link href="">
                 <div className="overflow-hidden">
                   <Image
                     src="/yacht-img-4.png"
@@ -126,7 +123,7 @@ export default function Yacht_Charter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform shadow-inner shadow-black duration-500 ease-in-out"
                   />
                 </div>
-              </Link>
+
               <div className="relative p-4 overflow-hidden group">
                 <h2 className="font-bold text-2xl text-[#000000]">Accura 49 Luxury Mortor Yacht</h2>
                 <p className="mt-3">Capacity: 12 Persons</p>
@@ -142,7 +139,7 @@ export default function Yacht_Charter() {
 
             {/* Card 4: yacht-img-2 */}
             <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group">
-              <Link href="">
+         
                 <div className="overflow-hidden">
                   <Image
                     src="/yacht-img-5.png"
@@ -152,7 +149,7 @@ export default function Yacht_Charter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
                   />
                 </div>
-              </Link>
+             
               <div className="relative p-4 overflow-hidden group">
                 <h2 className="font-bold text-2xl text-[#000000]">Accura 48 Luxury Mortor Yacht</h2>
                 <p className="mt-3">Capacity: 12 Persons</p>
@@ -168,7 +165,7 @@ export default function Yacht_Charter() {
 
             {/* Card 6: yacht-img-3 */}
             <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group ">
-              <Link href="">
+        
                 <div className="overflow-hidden">
                   <Image
                     src="/yacht-main-1.png"
@@ -178,7 +175,7 @@ export default function Yacht_Charter() {
                     className="h-[280px] object-cover transform group-hover:scale-125 transition-transform duration-500 ease-in-out"
                   />
                 </div>
-              </Link>
+          
               <div className="relative p-4 overflow-hidden group">
                 <h2 className="font-bold text-2xl text-[#000000]">Accura 39 Luxury Mortor Yacht</h2>
                 <p className="mt-3">Capacity: 8 Persons</p>
