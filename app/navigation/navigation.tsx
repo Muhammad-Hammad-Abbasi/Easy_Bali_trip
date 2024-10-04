@@ -23,13 +23,13 @@ function Navigation() {
 
 
                 {/* image div */}
-                <div>
+                <div className="block">
                     <Link href={"/"}>
                         <Image
                             src="/Easy-Bali.png"
                             height={200}
                             width={200}
-                            alt=""
+                            alt="Easy-Bali"
                         />
                     </Link>
                 </div>

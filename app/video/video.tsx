@@ -6,7 +6,7 @@ export default function Video() {
             {/* video adjust */}
             <div>
                 <div>
-                    <video controls autoPlay loop width="1400 " className="">
+                    <video controls autoPlay loop width="1350 " className="">
                         <source src="/EBT-Vid-Sound.mp4" type="video/mp4" />
                     </video>
                 </div>

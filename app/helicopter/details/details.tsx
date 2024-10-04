@@ -5,6 +5,7 @@ export default function Helicopter_Details() {
   return (
     <div>
       <main className="font-medium">
+        
         {/* Section Title */}
         <div className="flex justify-center items-center text-xl md:text-4xl lg:text-4xl font-bold pt-20 py-5">
           <h1>Choose Our Helicopter Packages</h1>
