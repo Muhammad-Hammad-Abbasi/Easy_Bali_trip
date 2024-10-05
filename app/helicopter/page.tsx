@@ -7,7 +7,7 @@ export default function Helicopter() {
 
         <div>
           <Image
-            src={"/Helicopters-img-2.png"}
+            src={"/Paragliding-1.png"}
             height={0}
             width={1400}
             alt="Helicopter"
@@ -141,7 +141,7 @@ export default function Helicopter() {
             <div className="relative w-[300px] md:w-[350px] lg:w-[420px] overflow-hidden group">
               <div className="overflow-hidden">
                 <Image
-                  src="/Helicopters-img-2.png"
+                  src="/Paragliding-1.png"
                   height={450}
                   width={420}
                   alt="yacht-img-2"
