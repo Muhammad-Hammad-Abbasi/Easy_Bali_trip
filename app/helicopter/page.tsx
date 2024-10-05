@@ -7,7 +7,7 @@ export default function Helicopter() {
 
         <div>
           <Image
-            src={"/Paragliding-1.png"}
+            src={"/main1-img-helicopter.png"}
             height={0}
             width={1400}
             alt="Helicopter"

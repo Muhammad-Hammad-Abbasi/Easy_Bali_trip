@@ -21,15 +21,15 @@ function Navigation() {
                     <button onClick={toggleButton}>{isOpen ? <FaTimes size={24} className="text-white" /> : <FaBars size={24} />}</button>
                 </div>
 
-
                 {/* image div */}
-                <div className="block">
+                <div>
                     <Link href={"/"}>
                         <Image
                             src="/Easy-Bali.png"
                             height={200}
                             width={200}
                             alt="Easy-Bali"
+                        
                         />
                     </Link>
                 </div>
@@ -61,7 +61,7 @@ function Navigation() {
 
                 {isOpen &&
                     <nav className="transition-transform duration-1000 ease-in-out">
-                        <ul className="flex flex-col text-white bg-black bg-opacity-90 z-50 fixed inset-0 p-6 space-y-4 md:hidden lg:hidden ">
+                        <ul className="flex flex-col text-white bg-black bg-opacity-90 z-50 fixed inset-0 p-6           space-y-4  md:hidden lg:hidden ">
 
                             <button onClick={toggleButton}><FaTimes /></button>
                             <li>
