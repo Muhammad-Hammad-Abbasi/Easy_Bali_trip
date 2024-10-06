@@ -1,4 +1,5 @@
 "use client"
+
 import Image from "next/image"
 import Link from "next/link"
 import { FaBars } from "react-icons/fa6";
@@ -15,11 +16,15 @@ function Navigation() {
     }
 
     return (
-        <main className="flex flex-col">
-            <div className="flex justify-between items-center px-10 pr-96 p-2 font-medium">
+        <main className="">
+            <div className="flex flex-row justify-around md:justify-between lg:justify-between items-center font-medium px-6 ">
+
+                {/* menu */}
                 <div className="block md:hidden lg:hidden">
                     <button onClick={toggleButton}>{isOpen ? <FaTimes size={24} className="text-white" /> : <FaBars size={24} />}</button>
                 </div>
+
+
 
                 {/* image div */}
                 <div>
@@ -61,7 +66,7 @@ function Navigation() {
 
                 {isOpen &&
                     <nav className="transition-transform duration-1000 ease-in-out">
-                        <ul className="flex flex-col text-white bg-black bg-opacity-90 z-50 fixed inset-0 p-6           space-y-4  md:hidden lg:hidden ">
+                        <ul className="flex flex-col text-white bg-black bg-opacity-90 z-50 fixed inset-0 p-6  space-y-4  md:hidden lg:hidden ">
 
                             <button onClick={toggleButton}><FaTimes /></button>
                             <li>

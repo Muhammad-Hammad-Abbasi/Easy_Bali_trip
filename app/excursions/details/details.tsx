@@ -5,7 +5,7 @@ function Our_Details() {
   return (
     <main className="font-medium">
       {/* Section Title */}
-      <div className="flex justify-center items-center text-xl md:text-4xl lg:text-4xl font-bold pt-10 py-5 ">
+      <div className="text-center text-xl md:text-4xl lg:text-4xl font-bold pt-10 py-5 ">
         <h1>Choose Our Tour Packages</h1>
       </div>
 
