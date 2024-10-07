@@ -17,7 +17,7 @@ function Navigation() {
 
     return (
         <main className="">
-            <div className="flex flex-row justify-around md:justify-between lg:justify-between items-center font-medium px-6 ">
+            <div className="flex flex-row justify-around md:justify-between lg:justify-between items-center font-medium md:px-10 lg:px-10 py-2 ">
 
                 {/* menu */}
                 <div className="block md:hidden lg:hidden">
